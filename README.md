@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PSPL
+An site to show an intersection between current trending games and PS Plus games.
 
 ## Getting Started
 
